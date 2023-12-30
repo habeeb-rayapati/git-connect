@@ -3,3 +3,5 @@ resource "aws_instance" "myecee" {
     instance_type = "t2.small"
   
 }
+
+sdfsdfsdf
