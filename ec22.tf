@@ -6,4 +6,8 @@ resource "aws_instance" "myecee" {
 
 sdfsdfsdf
 
+
 commit in exe branch
+=======
+sdfsdfsdfsdfsdfsdf
+
